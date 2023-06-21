@@ -1,0 +1,29 @@
+{
+	"cwmpVersion": "2.0",
+	"data": {
+		"devId": "${cuei}"
+	},
+	"parameterValues":{
+		"Device.WiFi.X_CU_ACL": {
+			"2G": {
+				"OperatingFrequencyBand": "2.4GHz",
+				"MACAddressControlEnabled": false,
+				"MacFilterPolicy": 0,
+				"BMacFilters":{
+					"HostName": "T2",
+					"MACAddress": "00:E0:99:08:57:99"
+				}
+			},
+			"5G": {
+				"OperatingFrequencyBand": "5GHz",
+				"MACAddressControlEnabled":true,
+				"MacFilterPolicy": 0,
+				"BMacFilters":{
+					"HostName": "T4",
+					"MACAddress": "00:E0:99:08:57:88"
+				}
+			}
+		}
+      }
+
+}

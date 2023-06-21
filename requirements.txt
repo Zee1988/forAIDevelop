@@ -6,3 +6,7 @@ tiktoken
 openai
 pypdf
 pinecone-client
+docarray
+faiss
+pymupdf
+jq
