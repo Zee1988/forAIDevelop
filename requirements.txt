@@ -8,5 +8,8 @@ pypdf
 pinecone-client
 docarray
 faiss
+faiss-cpu
 pymupdf
 jq
+tiktoken
+docarray
