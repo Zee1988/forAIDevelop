@@ -13,3 +13,4 @@ pymupdf
 jq
 tiktoken
 docarray
+redis
