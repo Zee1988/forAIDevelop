@@ -21,3 +21,5 @@ gql
 transformers
 huggingface_hub
 duckduckgo-search
+TensorFlow
+sentencepiece
