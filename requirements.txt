@@ -15,3 +15,11 @@ tiktoken
 docarray
 redis
 yfinance
+apify-client
+gradio_tools
+gql
+transformers
+huggingface_hub
+duckduckgo-search
+TensorFlow
+sentencepiece
